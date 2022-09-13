@@ -14,9 +14,11 @@ Zuerst muss man eine Menge von Zahlen generieren und danach weist man eine Diese
 
 
  //Zahlen generieren
+ 
  Random rd = new Random();
  
  //Zufalls Zahl einer Variable zuweisen
+ 
  int Number = rd.Next(1, 100);
  
  
