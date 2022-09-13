@@ -3,7 +3,7 @@ Justus Meister
 
 ## Einleitung
 
-Bei diesem Projekt ging es darum ein kleines Spiel mit C# zu programmieren.
+Bei diesem Projekt ging es darum ein kleines Spiel mit C# zu programmieren. Bei dem Projekt ging es darum eine eine zufällig generierte Zahl zu erraten.
 
 ## Was habe ich gelernt?
 
